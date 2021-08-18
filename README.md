@@ -8,16 +8,4 @@ likely to predict “Politics” is we see keywords like Obama, election, republ
 probabilities of each word in headline being associated with a class and then find the probability for whole
 headline hence it works good.
 
-## Installation
-`pip install numpy`  
-`pip install scikit-learn`   
-`pip install imblearn`  
-`pip install seaborn`  
-Dataset: https://data.world/elenadata/vox-articles
 
-## Usage
-You can look for detailed explanation with graphs at - [news.ipynb](news.ipynb)  
-You can also run the python file using -  `python3 news.py`
-
-## Credits
-[Dr. Elena Zeleva](https://www.cs.uic.edu/~elena/)
